@@ -2,6 +2,7 @@
 ## AIM
 To study and implement DDL commands and different types of constraints.
 ## THEORY
+```
 1.CREATE:
 This is used to create a new relation (table)
 Syntax:
@@ -68,3 +69,4 @@ REFERENCEStable_name);
 default value will be added to all new records, if no other value is specified.
 Syntax:
 CREATETABLE Table_Name(col_name1,col_name2,col_name3 DEFAULT ‘’);
+```
